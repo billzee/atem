@@ -1,0 +1,18 @@
+{
+  "tokenColors": "./Dracula.tmTheme",
+  "colors": {
+    "activityBar.background": "#014E9E",
+    "activityBar.foreground": "#FFFFFF",
+    "activityBarBadge.background": "#729723",
+    "statusBar.background": "#729723",
+    "statusBar.foreground": "#FFFFFF",
+    "sideBar.background": "#02182e",
+    "editor.background": "#0c1c2b",
+    "editorCursor.foreground": "#FFFFFF",
+    "editor.foreground": "#FFFFFF",
+    "editorWhitespace.foreground": "#8b949e",
+    "editor.lineHighlightBackground": "#022952",
+    "editor.selectionBackground": "#014E9E"
+  },
+  "name": "Atem"
+}
